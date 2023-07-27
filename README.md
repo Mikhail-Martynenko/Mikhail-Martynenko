@@ -17,9 +17,7 @@
   I am a Frontend-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - :technologist: Graduate of the Mathematical Institute, I have a master's degree
-
-- :soccer: I play football.
-
+  
 - :surfing_man: In my free time, I improve my knowledge of programming.
 
 - :speech_balloon: To contact with me: [![Telegram Badge](https://img.shields.io/badge/telegram-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/anekaif)
